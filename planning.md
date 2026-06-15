@@ -68,11 +68,11 @@ The embedding model used is all-MiniLM-L6-v2 via sentence-transformers, which ru
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | Which professor is considered the hardest at Minerva? | Prof Subasic |
+| 1 | Which professor is considered the hardest at Minerva? | Not possible to get it from reviews, not enough info but closest ones are Prof Subasic and Prof Terrana |
 | 2 | Which professor gives the most useful feedback? | Prof Rios |
-| 3 | Who is the harshest grader at Minerva? | Prof Subasic |
+| 3 | Who is the harshest grader at Minerva? | Prof Subasic or Prof Terrana |
 | 4 | Which professor is the friendliest? | Prof Morar |
-| 5 | What do students say about exam difficulty at Minerva? | Generally varies depending on the professor, but not easy |
+| 5 | What do students say about exam difficulty at Minerva? | Generally varies depending on the professor, but not possible to get from prof reviews. |
 
 ---
 
